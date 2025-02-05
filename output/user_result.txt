@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-02-05 18:27:07,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-02-06 06:28:01,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -18,10 +18,9 @@ CCTV-12,http://goo.bkpcp.top/mg/cctv12
 CCTV-13,http://goo.bkpcp.top/mg/cctv13
 CCTV-14,http://goo.bkpcp.top/mg/cctv14
 CCTV-15,http://goo.bkpcp.top/mg/cctv15
-CCTV-16,http://58.17.48.228:808/hls/25/index.m3u8
+CCTV-16,http://219.135.180.210:18888/hls/31/index.m3u8
 CCTV-17,http://goo.bkpcp.top/mg/cctv17
 CETV1,http://120.55.49.231:3095/rtp/233.50.201.75:5140
-CETV2,http://139.129.231.228:50060/rtp/239.21.2.8:5002
 CETV4,http://120.55.49.231:3095/rtp/233.50.200.162:5140
 
 💰央视付费频道,#genre#
@@ -55,7 +54,7 @@ CETV4,http://120.55.49.231:3095/rtp/233.50.200.162:5140
 宁夏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225632
 青海卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225628
 山东卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226456
-山西卫视,http://110.53.52.63:8888/newlive/live/hls/43/live.m3u8
+山西卫视,http://36.32.174.67:60080/newlive/live/hls/43/live.m3u8
 陕西卫视,http://goo.bkpcp.top/mg/sxws
 四川卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226338
 深圳卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226313
