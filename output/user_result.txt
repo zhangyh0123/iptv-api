@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-02-22 18:32:28,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-02-23 06:32:40,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
@@ -42,7 +42,7 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 海南卫视,http://php.jdshipin.com:8880/cqyx.php?id=HAINANSD
 河北卫视,http://php.jdshipin.com:8880/cqyx.php?id=HEBEISD
 河南卫视,http://php.jdshipin.com:8880/cqyx.php?id=HENANHD
-吉林卫视,http://php.jdshipin.com:8880/cqyx.php?id=JILINHD
+吉林卫视,http://goo.bkpcp.top/mg/jlws
 江苏卫视,http://php.jdshipin.com:8880/cqyx.php?id=JIANGSUHD
 江西卫视,http://php.jdshipin.com:8880/cqyx.php?id=JIANGXIHD
 辽宁卫视,http://php.jdshipin.com:8880/cqyx.php?id=LIAONINGHD
@@ -51,7 +51,7 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 青海卫视,http://php.jdshipin.com:8880/cqyx.php?id=QINGHAISD
 山东卫视,http://php.jdshipin.com:8880/cqyx.php?id=SHANDONGHD
 山西卫视,http://php.jdshipin.com:8880/cqyx.php?id=SHANXISD
-陕西卫视,http://120.192.226.35:8009/hls/17/index.m3u8
+陕西卫视,http://110.53.52.63:8888/newlive/live/hls/40/live.m3u8
 四川卫视,http://php.jdshipin.com:8880/cqyx.php?id=SICHUANHD
 深圳卫视,http://php.jdshipin.com:8880/cqyx.php?id=SHENZHENHD
 三沙卫视,http://php.jdshipin.com:8880/cqyx.php?id=SANSHASD
