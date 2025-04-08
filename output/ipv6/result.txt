@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-08 06:41:27,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-04-08 18:48:13,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -561,6 +561,7 @@ CCTV-15,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m
 🏛经典剧场,#genre#
 笑傲江湖,http://lu.wqwqwq.sbs/yy/1354930909
 天龙八部,http://luobo.bkpcp.top/yy/1382736855
+鹿鼎记,http://luobo.bkpcp.top/yy/1382704650
 三国演义,https://live.iill.top/huya/11602081
 水浒传,http://www.clmy.cc:35455/yy/1353873252
 新白娘子传奇,http://lu.wqwqwq.sbs/yy/1354490667
